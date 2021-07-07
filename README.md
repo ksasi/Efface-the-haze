@@ -2,7 +2,7 @@
 
 # Efface-the-haze
 
-The main aim of this project is to apply CV techniques and develop pipeline for image enhancement via Dehazing. This project is carried out as part of Computer Vision course CSL7360.
+The main aim of this project is to apply CV techniques and develop pipeline for image enhancement via Dehazing. This project is carried out as part of Computer Vision course CSL7360 under the guidance of [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/).
 
 
 
